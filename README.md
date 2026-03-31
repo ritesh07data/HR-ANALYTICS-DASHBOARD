@@ -26,6 +26,10 @@ This project focuses on analyzing employee data to identify attrition trends and
 ## 📂 Files Included
 - HR Dashboard (.pbix)
 - Dataset (.xlsx)
-
+<p>
+  <img src="https://res.cloudinary.com/dabzcxadz/image/upload/v1774977101/Screenshot_2026-03-27_223210_edemst.png"> 
+</p>
+ 
+ 
 ## 🚀 Author
 Ritesh Kumar
