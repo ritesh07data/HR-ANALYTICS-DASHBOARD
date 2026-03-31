@@ -28,4 +28,4 @@ This project focuses on analyzing employee data to identify attrition trends and
 - Dataset (.xlsx)
 
 ## 🚀 Author
-Your Name
+Ritesh Kumar
